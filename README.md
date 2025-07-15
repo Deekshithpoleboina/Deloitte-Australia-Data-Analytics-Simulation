@@ -65,8 +65,8 @@ Deloitte-Data-Analytics-Simulation/
 )
 
 - **Excel Classification Preview**  
-  ![Excel Classification](<img width="1600" height="800" alt="Excel_Classification_Preview" src="https://github.com/user-attachments/assets/173682c7-ca00-4619-adb9-4ad3206683f1" />
-)
+  ![Excel Classification Preview](dashboard/Excel_Classification_Preview.png)
+
 
 ## 🔗 Useful Resources
 - [Forage Deloitte Australia Program](https://www.theforage.com/virtual-internships/prototype/deloitte-data-analytics-au)  
