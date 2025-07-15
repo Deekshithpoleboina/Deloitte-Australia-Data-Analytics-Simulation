@@ -76,7 +76,7 @@ Poleboina Deekshith
 - 🐙 [GitHub](https://github.com/Deekshithpoleboina)
 
 
-### ✅ To Upload on GitHub:
+## ✅ To Upload on GitHub:
 1. Create a new repo named `Deloitte-Data-Analytics-Simulation`.
 2. Structure your folders exactly like in the repo tree above.
 3. Place these images in `dashboard/`:
