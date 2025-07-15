@@ -84,5 +84,3 @@ Poleboina Deekshith
    - `Excel_Classification_Preview.png` ← *(Rename `21c7ed82-c26...png` to this)*
 4. Push the repo.
 
-Let me know if you want me to generate or edit the Excel file `PayEquality_Model.xlsx` or the Tableau `.twbx` file too.
-
