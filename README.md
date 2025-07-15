@@ -30,13 +30,13 @@ graph TD
    - Highly Discriminative: Score ≤ –20 or Score ≥ +20
 
 3. **Dashboard Development**
-Connected Excel workbook to Tableau.
+   Connected Excel workbook to Tableau.
      Built two bar charts: 
    - Down Time per Factory (filterable)
-   - Down Time per Device Type  
-Configured filter action: selecting a factory drills into device‑level view.
+   - Down Time per Device Type
+   Configured filter action: selecting a factory drills into device‑level view.
 
-4. **Insights & Recommendations**  
+5. **Insights & Recommendations**  
    - Identified the factory with highest pay‑inequality risk.
    - Highlighted top job roles requiring review.
 
