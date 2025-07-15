@@ -53,18 +53,16 @@ graph TD
 ## 📂 Repository Structure
 
 ```
-📦 dynamic-parking-pricing/
-├── Capstone_Project_Submission.ipynb
-├── dataset.csv
+Deloitte-Data-Analytics-Simulation/
 ├── README.md
-├── architecture.md / architecture.png
-├── pricing_models.py
-├── report.pdf (optional)
-├── images/
-│   ├── Occupancy_Example.png
-│   ├── Price_Over_Time.png
-│   ├── Screenshot_Pathway_Star.png
-│   └── Screenshot_LLM_App_Star.png
+├── excel/
+│   └── PayEquality_Model.xlsx
+├── dashboard/
+│   ├── Daikibo_Dashboard.png
+│   └── TableauWorkbook.twbx    ← Packaged workbook (optional)
+└── docs/
+    └── project‑brief.pdf
+
 
 ```
 
