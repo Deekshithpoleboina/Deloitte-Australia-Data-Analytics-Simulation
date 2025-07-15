@@ -61,10 +61,12 @@ Deloitte-Data-Analytics-Simulation/
 ## 📈 Output Examples
 
 - **Dashboard Snapshot**  
-  ![Daikibo Dashboard](dashboard/Daikibo_Dashboard.png)
+  ![Daikibo Dashboard](<img width="1779" height="771" alt="Daikibo_Dashboard" src="https://github.com/user-attachments/assets/82673b8d-7cda-4fa6-8f77-bfadbb71d85a" />
+)
 
 - **Excel Classification Preview**  
-  ![Excel Classification](excel/PayEquality_Model.xlsx)
+  ![Excel Classification](<img width="1600" height="800" alt="Excel_Classification_Preview" src="https://github.com/user-attachments/assets/173682c7-ca00-4619-adb9-4ad3206683f1" />
+)
 
 ## 🔗 Useful Resources
 - [Forage Deloitte Australia Program](https://www.theforage.com/virtual-internships/prototype/deloitte-data-analytics-au)  
