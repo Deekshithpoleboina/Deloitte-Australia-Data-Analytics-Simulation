@@ -30,19 +30,13 @@ graph TD
    - Highly Discriminative: Score ≤ –20 or Score ≥ +20
 
 3. **Dashboard Development**
-   - **Model 1: Baseline Linear Model**  
-     Price increases linearly with occupancy rate  
-     `Price[t+1] = Price[t] + α * (Occupancy / Capacity)`
+     Connected Excel workbook to Tableau.
+     Built two bar charts: 
+   - Down Time per Factory (filterable)
+   - Down Time per Device Type  
+    Configured filter action: selecting a factory drills into device‑level view.
 
-   - **Model 2: Demand-Based Pricing**  
-     A composite demand function considers occupancy, traffic, queue, special days, and vehicle type.  
-     Adjusted price = `BasePrice * (1 + λ * NormalizedDemand)`
-
-   - **Model 3: Competitive Pricing (Optional)**  
-     Takes into account prices of nearby lots (via latitude and longitude)  
-     Includes rerouting suggestions for full lots or strategic price reduction
-
-5. **Insights & Recommendations**  
+4. **Insights & Recommendations**  
    - Identified the factory with highest pay‑inequality risk.
    - Highlighted top job roles requiring review.
 
