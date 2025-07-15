@@ -61,8 +61,7 @@ Deloitte-Data-Analytics-Simulation/
 ## 📈 Output Examples
 
 - **Dashboard Snapshot**  
-  ![Daikibo Dashboard](<img width="1779" height="771" alt="Daikibo_Dashboard" src="https://github.com/user-attachments/assets/82673b8d-7cda-4fa6-8f77-bfadbb71d85a" />
-)
+  ![Daikibo Dashboard](<img width="1779" height="771" alt="Daikibo_Dashboard" src="https://github.com/user-attachments/assets/2dcd42d6-077b-4395-80de-213308a28c63" />)
 
 - **Excel Classification Preview**  
   ![Excel Classification Preview](dashboard/Excel_Classification_Preview.png)
