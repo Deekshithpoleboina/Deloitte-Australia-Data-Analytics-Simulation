@@ -19,16 +19,17 @@ graph TD
 ```
 ## 🧠 Project Workflow
 
-1. **Data Collection**  
-   The dataset contains time-series data from 14 parking lots, recorded over 73 days and 18 intervals per day (every 30 minutes from 8:00 AM to 4:30 PM).
+1. **Data Preparation**
+   - Loaded raw compensation dataset into Excel.
+   - Computed an “Equality Score” for each role (–100 to +100).
 
-2. **Feature Engineering**  
-   - Combine date and time into a single timestamp  
-   - Calculate occupancy rate  
-   - Encode traffic congestion as numeric levels  
-   - Normalize queue length and special day indicators  
+2. **Classification Model**  
+   Created a calculated column in Excel:
+   - Fair: –10 ≤ Score ≤ +10
+   - Unfair: –20 < Score < –10 or +10 < Score < +20
+   - Highly Discriminative: Score ≤ –20 or Score ≥ +20
 
-3. **Modeling**
+3. **Dashboard Development**
    - **Model 1: Baseline Linear Model**  
      Price increases linearly with occupancy rate  
      `Price[t+1] = Price[t] + α * (Occupancy / Capacity)`
@@ -41,14 +42,9 @@ graph TD
      Takes into account prices of nearby lots (via latitude and longitude)  
      Includes rerouting suggestions for full lots or strategic price reduction
 
-4. **Real-Time Simulation with Pathway**  
-   - Simulates streaming data with timestamps  
-   - Integrates pricing logic into Pathway’s real-time processing pipeline
-
-5. **Visualization with Bokeh**  
-   - Real-time line plots of price per parking lot  
-   - Competitor price comparisons  
-   - Interactive filtering by time, lot, and vehicle type
+5. **Insights & Recommendations**  
+   - Identified the factory with highest pay‑inequality risk.
+   - Highlighted top job roles requiring review.
 
 ## 📂 Repository Structure
 
@@ -68,23 +64,12 @@ Deloitte-Data-Analytics-Simulation/
 
 ## 📈 Output Examples
 
-### 🔹 Sample Output from Capstone_Project_Submission.ipynb
 
-- **Occupancy Rate + Price Calculation Preview**  
+- **Dashboard Screenshot**  
   ![Screenshot 2025-07-04 155928](https://github.com/user-attachments/assets/c784437a-f36c-4988-b3e0-6b53e1a0b5e2)
 
-- **Predicted Prices Over Time**  
+- **Excel Classification Preview**  
   ![Screenshot 2025-07-04 160451](https://github.com/user-attachments/assets/71d17a7a-2402-4be5-a2df-69895fc1093d)
-
-
-### 🖼️ Starred Repository Proofs
-
-#### ⭐ Starred Pathway Repository  
-![Screenshot (12)](https://github.com/user-attachments/assets/8e00e463-740e-4b50-ae99-9969bb6be3b5)
-
-#### ⭐ Starred LLM App Repository  
-![Screenshot (13)](https://github.com/user-attachments/assets/4e6d0e54-b7d4-4f77-bc6b-ca6df73b7a8d)
-
 
 ## 🔗 Useful Resources
 - [📘 Pathway Documentation](https://pathway.com/developers)
