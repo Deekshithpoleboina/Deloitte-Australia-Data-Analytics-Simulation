@@ -3,15 +3,11 @@
 ## 📌 Overview
 This project replicates a real-world Deloitte Australia data analytics engagement focused on assessing pay equality across four manufacturing factories. It includes an interactive Tableau dashboard and an Excel-based classification model that tags employee compensation records as Fair, Unfair, or Highly Discriminative based on their calculated Equality Score.
 
----
-
 ## 🛠 Tech Stack
 - **Tableau**: Interactive dashboard creation  
 - **Microsoft Excel**: Data transformation and logic modeling  
 - **Git & GitHub**: Version control and hosting  
 - **Markdown**: Project documentation
-
----
 
 ## 🔧 Architecture Diagram
 ```mermaid
@@ -21,8 +17,6 @@ graph TD
     C --> D[Tableau Data Source]
     D --> E[Interactive Dashboard]
 ```
-
----
 
 ## 🧠 Project Workflow
 
@@ -45,8 +39,6 @@ graph TD
    - Identified the highest risk factory in terms of pay inequality.  
    - Suggested role-specific corrective actions to improve fairness.
 
----
-
 ## 📂 Repository Structure
 
 
@@ -64,8 +56,6 @@ Deloitte-Data-Analytics-Simulation/
 
 ```
 
----
-
 ## 📈 Output Examples
 
 - **Dashboard Snapshot**  
@@ -74,14 +64,10 @@ Deloitte-Data-Analytics-Simulation/
 - **Excel Classification Preview**  
   ![Excel Classification Preview](dashboard/Excel_Classification_Preview.png)
 
----
-
 ## 🔗 Useful Resources
 - [Forage Deloitte Australia Program](https://www.theforage.com/virtual-internships/prototype/deloitte-data-analytics-au)  
 - [Tableau Documentation](https://help.tableau.com/current/guides/e-learning/en-us/tableau-overview.html)  
 - [Excel Classification Techniques](https://support.microsoft.com/en-us/excel)
-
----
 
 ## 👤 Author
 Poleboina Deekshith  
@@ -89,8 +75,6 @@ Poleboina Deekshith
 - 🔗 [LinkedIn](https://linkedin.com/in/deekshithpoleboina)  
 - 🐙 [GitHub](https://github.com/Deekshithpoleboina)
 
-
----
 
 ### ✅ To Upload on GitHub:
 1. Create a new repo named `Deloitte-Data-Analytics-Simulation`.
