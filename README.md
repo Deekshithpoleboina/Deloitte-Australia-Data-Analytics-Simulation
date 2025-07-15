@@ -78,3 +78,16 @@ Poleboina Deekshith
 - 🔗 [LinkedIn](https://linkedin.com/in/deekshithpoleboina)  
 - 🐙 [GitHub](https://github.com/Deekshithpoleboina)
 
+
+---
+
+### ✅ To Upload on GitHub:
+1. Create a new repo named `Deloitte-Data-Analytics-Simulation`.
+2. Structure your folders exactly like in the repo tree above.
+3. Place these images in `dashboard/`:
+   - `Daikibo_Dashboard.png` ← *(Rename `d14de929-ce54...png` to this)*
+   - `Excel_Classification_Preview.png` ← *(Rename `21c7ed82-c26...png` to this)*
+4. Push the repo.
+
+Let me know if you want me to generate or edit the Excel file `PayEquality_Model.xlsx` or the Tableau `.twbx` file too.
+
