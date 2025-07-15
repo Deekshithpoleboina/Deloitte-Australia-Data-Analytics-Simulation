@@ -57,6 +57,7 @@ Deloitte-Data-Analytics-Simulation/
 ```
 
 
+
 ## 📈 Output Examples
 
 - **Dashboard Snapshot**  
@@ -76,5 +77,3 @@ Poleboina Deekshith
 - 🔗 [LinkedIn](https://linkedin.com/in/deekshithpoleboina)  
 - 🐙 [GitHub](https://github.com/Deekshithpoleboina)
 
-- [📗 Bokeh Docs](https://docs.bokeh.org/en/latest/)
-- [📘 Summer Analytics 2025](https://www.caciitg.com/sa/course25/)
